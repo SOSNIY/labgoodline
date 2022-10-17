@@ -74,5 +74,5 @@ for(let i=0;i<dataparse.length;i++){
     }
 }
 
-debugger
+
 console.log(deptarray)
